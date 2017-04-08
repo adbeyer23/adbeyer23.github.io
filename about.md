@@ -8,9 +8,10 @@ permalink: /about/
 
 
 
-### More Information
+### Aaron Beyer
 
-Hi!
+### Overview
+
 
 ### Contact me
 
