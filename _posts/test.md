@@ -5,7 +5,7 @@ title: Project 1: Finding the best locations to get emails based on NYC subway d
 
 ***Challenge***: Using subway data, try to find the best subway locations in NYC to spread awareness (through getting emails), and to get people to attend a gala supporting women in tech.
 
-***Data used***: Freely available turnstile data provided by the MTA ([http://web.mta.info/developers/turnstile.html](http://web.mta.info/developers/turnstile.html)), geolocations of the various subway locations in NYC
+***Data used***: Freely available turnstile data provided by the MTA, geolocations of the various subway locations in NYC
 
 ***Tools used***: Python, Pandas, Juypter Notebook, Matplotlib, Seaborn, Plotly 
 
@@ -48,4 +48,4 @@ We also took a look at the number of entries in the stations with the most traff
 3. **Domain-specific knowledge is important.** I am new to NYC and did not know much about the subway system. If I my fellow classmates had not helped me understand the subway system better, I would have assumed that there was nothing wrong with Lorimer ST having the highest traffic. If you don’t know what the data should look like or what it represents, it is hard to see if your outliers are bad data or not.
 4. **Don’t miss the big picture.** After finding more data than expected being bad, I wanted to explore the data more to possibly fix other issues.  I also wanted to create more graphs, and bring in more data. However, we only had 5 days to complete and present on this project. Perfection must give way to good enough
 
-Interested in the code or presentation for this project? Take a look at my [GitHub](https://github.com/adbeyer23/MTA-Analysis-Project).
+Interested in the code or presentation for this project? Take a look at my.
