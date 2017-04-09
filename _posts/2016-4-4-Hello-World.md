@@ -2,9 +2,6 @@
 layout: post
 title: First week of data science bootcamp = Complete!
 ---
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545; min-height: 14.0px}
-
 **First week of data science bootcamp = Complete!**
 
 I have gotten through my first week of data science bootcamp at Metis and it has, so far, gone really well. It has been a lot of work, and we definitely have jumped right in, but overall I have not felt overwhelmed (yet). This week, we have covered basic pandas, python and git and focused on a group project involving NYC subway data.
