@@ -2,8 +2,6 @@
 layout: post
 title: First week of data science bootcamp = Complete!
 ---
-**First week of data science bootcamp = Complete!**
-
 I have gotten through my first week of data science bootcamp at Metis and it has, so far, gone really well. It has been a lot of work, and we definitely have jumped right in, but overall I have not felt overwhelmed (yet). This week, we have covered basic pandas, python and git and focused on a group project involving NYC subway data.
 
 Metis is composed mainly of a combination of lectures, pair programming, challenges, and projects. Though it has only been a week, I believe the projects and pair programming will be the most helpful. The pair programming is helpful because it gives us a chance to brush up on and refine our python skills, while getting experience with coding with others and learning their philosophies to programming. The projects are the most helpful because they will force you to learn and execute quickly in a short time frame (this structure is one of the reasons I opted for a bootcamp vs. learning data science by self study).
