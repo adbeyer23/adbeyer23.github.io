@@ -1,8 +1,7 @@
 ---
 layout: post
-title: First week of data science bootcamp = Complete!
+title: Project 1: Finding the best locations to get emails based on NYC subway data
 ---
-Project 1: Finding the best locations to get emails based on NYC subway data
 
 Challenge: Using subway data, try to find the best subway locations in NYC to spread awareness (through getting emails), and to get people to attend a gala supporting women in tech.
 
@@ -14,6 +13,9 @@ Approach:
 
 First off, we wanted to see what this data looked like:
 
+![Data head](images/DataScreenshot_project1.png){:class="img-responsive"}
+
+
 The most important columns here are the Entries and Exits columns..and they have some gigantic numbers in them. After doing some research, we realized that those numbers were counting from the beginning of counting and therefore, we would need to subtract a row from a previous row to get the true entry and exit rates.
 
 After looking at the data further, we found out that our most trafficked station by far was Lorimer ST. This did not make any sense  as this station is in Brooklyn, and doesn’t go along with what the MTA thinks are the most busiest station. Other stations like Fresh Pond Road were also on this list along with stations we knew had high traffic—like Grand Central station.
@@ -24,9 +26,17 @@ Was our data fully cleaned yet? Not quite. After finding our mean traffic were s
 
 After that, we were able to see which stations were the most highly trafficked:
 
+![top10](images/TotalTraffic_project1.png){:class="img-responsive"}
+
+
 This goes in line with our assumptions and what the MTA believes are the busiest stations.
 
 We also took a look at the number of entries in the stations with the most traffic by  hour interval and day of the week:
+
+![By Hour](images/By%20Hour.Project1.png){:class="img-responsive"}
+
+![By Day](images/Byday_fixed.png){:class="img-responsive"}
+
 
 Recommendations:
 
@@ -41,4 +51,4 @@ Takeaways:
 3. **Domain-specific knowledge is important. **I am new to NYC and did not know much about the subway system. If I my fellow classmates had not helped me understand the subway system better, I would have assumed that there was nothing wrong with Lorimer ST having the highest traffic. If you don’t know what the data should look like or what it represents, it is hard to see if your outliers are bad data or not.
 4. **Don’t miss the big picture. **After finding more data than expected being bad, I wanted to explore the data more to possibly fix other issues.  I also wanted to create more graphs, and bring in more data. However, we only had 5 days to complete and present on this project. Perfection must give way to good enough
 
-Interested in the code or presentation for this project? Take a look at my GitHub.
+Interested in the code or presentation for this project? Take a look at my [GitHub](https://github.com/adbeyer23/MTA-Analysis-Project).
