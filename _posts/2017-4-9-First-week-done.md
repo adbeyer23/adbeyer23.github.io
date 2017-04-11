@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 1: Finding the best locations to get emails based on NYC subway data
+title: Project 1 Finding the best locations to get emails based on NYC subway data
 ---
 
 Challenge: Using subway data, try to find the best subway locations in NYC to spread awareness (through getting emails), and to get people to attend a gala supporting women in tech.
