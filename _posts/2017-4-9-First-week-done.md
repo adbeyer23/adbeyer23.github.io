@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Project 1 Finding the best locations to get emails based on NYC subway data
+title: Finding the Busiest NYC Subway Stations
 ---
 
-Challenge: Using subway data, try to find the best subway locations in NYC to spread awareness (through getting emails), and to get people to attend a gala supporting women in tech.
+Our first project for Metis involved using subway data to try to find the best subway locations in NYC to spread awareness (through getting emails), and to get people to attend a gala supporting women in tech.
 
 Data used: Freely available turnstile data provided by the MTA ([http://web.mta.info/developers/turnstile.html](http://web.mta.info/developers/turnstile.html)), geolocations of the various subway locations in NYC
 
@@ -13,7 +13,7 @@ Approach:
 
 First off, we wanted to see what this data looked like:
 
-![Data head](images/DataScreenshot_project1.png){:class="img-responsive"}
+![Data head](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/DataScreenshot_project1.png?raw=true){:class="img-responsive"}
 
 
 The most important columns here are the Entries and Exits columns..and they have some gigantic numbers in them. After doing some research, we realized that those numbers were counting from the beginning of counting and therefore, we would need to subtract a row from a previous row to get the true entry and exit rates.
@@ -26,16 +26,16 @@ Was our data fully cleaned yet? Not quite. After finding our mean traffic were s
 
 After that, we were able to see which stations were the most highly trafficked:
 
-![top10](images/TotalTraffic_project1.png){:class="img-responsive"}
+![top10](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/TotalTraffic_project1.png?raw=true){:class="img-responsive"}
 
 
 This goes in line with our assumptions and what the MTA believes are the busiest stations.
 
 We also took a look at the number of entries in the stations with the most traffic by  hour interval and day of the week:
 
-![By Hour](images/By%20Hour.Project1.png){:class="img-responsive"}
+![By Hour](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/By%20Hour.Project1.png?raw=true){:class="img-responsive"}
 
-![By Day](images/Byday_fixed.png){:class="img-responsive"}
+![By Day](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/Byday_fixed.png?raw=true){:class="img-responsive"}
 
 
 Recommendations:
