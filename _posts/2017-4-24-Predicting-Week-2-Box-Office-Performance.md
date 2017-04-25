@@ -22,7 +22,7 @@ I  initially thought that a good amount of movies in my dataset, around 10-15%,
 
 The variable I was trying to predict was gross change, as a percent, between week one and week two.
 
-![By Hour](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/GrossChange%20copy.png){:class="img-responsive"}
+![By Hour](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/GrossChange%20copy.png?raw=true){:class="img-responsive"}
 
 Most movies have about a 50 percent decrease in box office revenue from week 1 to week 2. I ended up taking the logarithm of gross change because neither this variable or the residuals produced from the model were normal.
 
@@ -30,7 +30,7 @@ I used sklearn’s Elastic Net CV (cross-validated) to optimize and to try to na
 
 The strongest coefficients (by absolute value) explain a lot about how my model made predictions:
 
-![By Hour](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/Screen%20Shot%202017-04-24%20at%209.42.25%20PM.png){:class="img-responsive"}
+![By Hour](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/Screen%20Shot%202017-04-24%20at%209.42.25%20PM.png?raw=true){:class="img-responsive"}
 
 
 Positive coefficients mean the model predicted that they would decrease the amount of gross decline and negative coefficients increase the amount. Rotten Tomato and IMDB Rating scores being positive make sense  in that I would expect better rated movies to overall do better at the box office.The studio Weinstein makes a lot of highly acclaimed movies and release movies around the holidays, which I think explains why Weinstein has a strong coefficient.  My guess to why concert movies don’t do well the second week is because many of those movies are seen by kids/tweens (two of the concertt movies were about Justin Bieber and One Direction), who only see the movie the first week, and then nobody sees it after that. I believe week 1 gross is a negative coefficient as it is hard for a movie to continually have a high gross every week.
