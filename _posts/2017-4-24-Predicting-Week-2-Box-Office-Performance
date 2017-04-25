@@ -1,4 +1,10 @@
-For my second project, I look at trying to predict the decline between week 1 and week 2 at the box office. When I was looking at movies on Box Office Mojo, I found most movies dropped pretty significantly from week 1 to week 2, but some movies increased, and I wanted to look at the factors behind the change. 
+---
+layout: post
+title: Predicting Week 2 Box Office Performance
+---
+
+
+For my second project, I looked at trying to predict the decline between week 1 and week 2 at the box office. When I was looking at movies on Box Office Mojo, I found most movies dropped pretty significantly from week 1 to week 2, but some movies increased, and I wanted to look at the factors behind the change. 
 
 **Data**:
 
