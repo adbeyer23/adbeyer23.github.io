@@ -11,8 +11,8 @@ I got the data from [Kaggle](http://Kaggle.com) and removed any of the rows that
 
 ![By Hour](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/Lending%20Club%20Page.png?raw=true){:class="img-responsive"}
 
-<tr><td class="caption">Information Provided by Lending Club for a Loan</td></tr>
-</table>
+<tr><td class="caption"><i>Information Provided by Lending Club for a Loan</i></td></tr>
+
 
  I had looked at Lending Club years ago, and have a relatively good understanding of credit and loans, but I still had to spend a good amount of time researching what all the features stood for and how relevant they would be if someone would pay off a loan or not. 
 
@@ -35,7 +35,7 @@ I also looked to see if the state a person was from was correlated with them def
 
 Indiana had the highest default rate, and many states in the South tended to have higher default rates, especially compared to the upper West. 
 
-Modeling:
+**Modeling**
 
 Because my data cleaning process was quick I decided to spend a lot of time on modeling. I ran Scikit-Learn’s GridSearchCV with many classifying algorithms like: K Nearest Neighbors, Logistic Regression, Random Forests, and Linear Support Vector Machines. All led to an accuracy of about 82%. Which sounds good, except for the fact that 82% of people in my data paid off their loans—meaning that the accuracy was just predicting everyone would pay off their loans.
 
@@ -46,7 +46,7 @@ I decided to downsample my Fully Paid class to equal that of my Defaulted class 
 
 Most of the estimators I used had a similar precision-recall curve, but, by a very small margin, the gradient boosted trees classifier did the best.
 
-Loan Picking App:
+**Loan Picking App**
 
 ![By Hour](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/Loanmaster.png?raw=true){:class="img-responsive"}
 
@@ -54,13 +54,13 @@ I decided to have fun and create a small Flask app that would determine if someo
 
 The app is powered by Logistic Regression and set to only give a “Yes” for an investment if the probability of that loan being in the “Fully Paid” class was over 70%. I tested that percentage, and that percentage gave about a precision rate of about 95%—which is a perfect balance of having low risk but also leaving enough loans to invest in for an individual investor.
 
-Further Research/Improvements
+**Further Research/Improvements**
 
 - Lending Club has provided a 2016 loan dataset that I would like to add to my model too. In that year, they also added credit score, which I would like to see if could help gain further insight to loan defaulting.
 - I would also like to try my model on different crowd funding loan sites, like [Prosper](http://Prosper.com), to see if my model generalizes.
 - Finally, I would like to make my app more pretty and also account for how much risk a person wants to take (and maybe create a second model on the riskiest loans).
 
-Final Thoughts:
+**Final Thoughts**
 
 - If you can take risks, take them. For my presentation, I took a gamble and presented my model as something I was selling, like in an infomercial. I thought trying to combine humor with data might not work so well, but I tried it anyways, and it was well received.
 
