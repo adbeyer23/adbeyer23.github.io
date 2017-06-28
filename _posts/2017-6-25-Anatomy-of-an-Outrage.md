@@ -1,7 +1,3 @@
----
-layout: post
-title: Anatomy of an Outrage: Analyzing the Kathy Griffin/Trump story through the lens of Twitter
----
 For my final project at Metis, I decided to look at how Twitter responded to a controversial story. The story I picked came from May 30th, 2017 when TMZ leaked a photo in which Kathy Griffin was holding a mask that looked like Donald Trump’s bloody, severed head. My goal of this project was to see how people responded to something controversial and to get an understanding of how something controversial goes viral. For my presentation and for this blog post, I have done the analysis in 3 acts. Because Twitter’s API let’s you grab tweets via search for only 7 days in the past, I was limited in options and glad this story came around at the beginning of June. 
 
 **Getting the Tweets**
