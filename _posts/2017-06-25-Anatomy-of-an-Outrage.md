@@ -23,19 +23,19 @@ I also did some topic modeling on these first 100,000 tweets and found good sepa
 
 __Topic 1: Fire Kathy Griffin__
 
-![Act 1 Fire](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act1fire.png?raw=true){:class="img-responsive"}
+![Act 1 Fire](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act1fire1.png?raw=true){:class="img-responsive"}
 
 The first topic revolves around a push to get Kathy Griffin fired from hosting CNN’s New Years Eve special. A lot of people were wondering why CNN, who did not condone this photo, did not immediately fire her. A lot people were setting up campaigns to call CNN’s advertisers to complain.
 
 __Topic 2: General Reporting (with a conservative slant)__
 
-![Act 1 General](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act1general.png?raw=true){:class="img-responsive"}
+![Act 1 General](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act1general1.png?raw=true){:class="img-responsive"}
 
 The second topic revolves around words used to describe the picture. However, many of these words seem to be words one would expect a conservative or someone on the alt-right would use like “liberal meltdown” or using words with strong connotations like “decapitation” .
 
 __Topic 3: Comparisons to Obama__
 
-![Act 1 Obama](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act1obama.png?raw=true){:class="img-responsive"}
+![Act 1 Obama](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act1obama1.png?raw=true){:class="img-responsive"}
 
 The final topic involves comparisons to Obama and his presidency. For example, there was a lot of talk about how certain people were getting fired for mocking Obama—like a rodeo clown who wore an Obama mask.
 
@@ -76,7 +76,7 @@ This topic focuses a lot on Donald Trump saying Kathy Griffin should be ashamed,
 
 __Topic 5: Mentions of Trump’s “sensitive children”__
 
-  ![Act 2 Stetten](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2stettentweet.png?raw=true){:class="img-responsive"}
+  ![Act 2 Stetten](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2stettentweet1.png?raw=true){:class="img-responsive"}
 
 Two people: Melissa Stetten above, and Rickey Gervais were the most and third most retweeted respectively. Both tweeted in a kind of mocking and funny tone, pointing out who Trump’s children are, and if they would actually be disturbed with a picture like this.
 
@@ -100,7 +100,7 @@ Bots maybe made this story more viral than it would have been in the absence of 
 
 Next I looked at the partisanship of these bots:
 
-  ![Bot Partisan](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/botpartisan.png?raw=true){:class="img-responsive"}
+  ![Bot Partisan](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/botpartisan1.png?raw=true){:class="img-responsive"}
 
 I determined partisanship by looking at the hashtags being used (I would rarely expect a liberal to use #MAGA) and what words were being used in user descriptions (similar to how I determined liberal and conservative influencers in act I). For many of these bots, many of their descriptions were just a bunch of hashtags (like #MAGA #TrumpTrain, #LockHerUp, etc.). Almost all of the bots I could recognize leaned conservative and were overwhelmingly using conservative hashtags:
 
