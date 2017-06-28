@@ -1,3 +1,7 @@
+---
+layout: post
+title: Anatomy of an Outrage: Analyzing the Kathy Griffin/Trump story through the lens of Twitter
+---
 For my final project at Metis, I decided to look at how Twitter responded to a controversial story. The story I picked came from May 30th, 2017 when TMZ leaked a photo in which Kathy Griffin was holding a mask that looked like Donald Trump’s bloody, severed head. My goal of this project was to see how people responded to something controversial and to get an understanding of how something controversial goes viral. For my presentation and for this blog post, I have done the analysis in 3 acts. Because Twitter’s API let’s you grab tweets via search for only 7 days in the past, I was limited in options and glad this story came around at the beginning of June. 
 
 **Getting the Tweets**
@@ -100,7 +104,7 @@ Bots maybe made this story more viral than it would have been in the absence of 
 
 Next I looked at the partisanship of these bots:
 
-  ![Bot Partisan](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/botpartisan1.png?raw=true){:class="img-responsive"}
+  ![Bot Partisan](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/botpartisan2.png?raw=true){:class="img-responsive"}
 
 I determined partisanship by looking at the hashtags being used (I would rarely expect a liberal to use #MAGA) and what words were being used in user descriptions (similar to how I determined liberal and conservative influencers in act I). For many of these bots, many of their descriptions were just a bunch of hashtags (like #MAGA #TrumpTrain, #LockHerUp, etc.). Almost all of the bots I could recognize leaned conservative and were overwhelmingly using conservative hashtags:
 
