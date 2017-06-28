@@ -60,13 +60,13 @@ In the first topic, there is general talk about Kathy Griffin eventually getting
 
 __Topic 2: Comparisons to Obama__
 
-![Act 2 Obama](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2comparisons%20to%20obama.png?raw=true){:class="img-responsive"}
+![Act 2 Obama](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2comparisons%20to%20obama1.png?raw=true){:class="img-responsive"}
 
 Unlike comparisons between Trump and Obama in the first 100,000 tweets, these comparisons are definitely coming from more liberal viewpoints. Tweeters were bringing up how Ted Nugget had threatened Obama, and many people were hanging mannequins that looked like Obama. Back then, a lot of conservatives were defending that as free speech, and many are asking if that was free speech, how is what Kathy Griffin doing now not free speech?
 
 __Topic 3: Kathy Griffin’s Apology and claims of being bullied__
 
-![Act 2 Apology](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2apology.png?raw=true){:class="img-responsive"}
+![Act 2 Apology](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2apology1.png?raw=true){:class="img-responsive"}
 
 This topic seems to center around Kathy Griffin’s eventual apology for the photo and then claims that Trump and some members of his family (like Donald Jr.) were bullying Kathy Griffin through their tweets and talks to the media.
 
