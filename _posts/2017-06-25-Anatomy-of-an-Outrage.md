@@ -62,7 +62,7 @@ Unlike comparisons between Trump and Obama in the first 100,000 tweets, these co
 
 __Topic 3: Kathy Griffin’s Apology and claims of being bullied__
 
-![Act 2 Apology](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2apology?raw=true){:class="img-responsive"}
+![Act 2 Apology](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2apology.png?raw=true){:class="img-responsive"}
 
 This topic seems to center around Kathy Griffin’s eventual apology for the photo and then claims that Trump and some members of his family (like Donald Jr.) were bullying Kathy Griffin through their tweets and talks to the media.
 
@@ -70,7 +70,7 @@ Topics 4 through 6 center around some of the most retweeted tweets.
 
 __Topic 4: Trump’s tweet about Kathy Griffin__
 
-  ![Act 2 Trump](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2trumptweet?raw=true){:class="img-responsive"}
+  ![Act 2 Trump](https://github.com/adbeyer23/adbeyer23.github.io/blob/master/images/act2trumptweet.png?raw=true){:class="img-responsive"}
 
 This topic focuses a lot on Donald Trump saying Kathy Griffin should be ashamed, and whether or not his children, especially Barron, are legitimately disturbed by this photo.
 
