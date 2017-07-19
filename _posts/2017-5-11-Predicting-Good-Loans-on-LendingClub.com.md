@@ -66,4 +66,4 @@ The app is powered by Logistic Regression and set to only give a “Yes” for a
 
 - Flask is amazingly easy to use. I was able to build, troubleshoot and get a basic app running in about 4-5 hours. I worked on this the day before my project was due, and didn’t think it would be ready for my presentation. However, I was able to follow and modify much of the code I saw  in tutorials like [TutorialsPoint](https://www.tutorialspoint.com/flask/index.htm) to make something surprisingly workable. Yes, it is not pretty—however, it does what it needs to do.
 
-Interested in the code or presentation for this project? Take a look at my [GitHub]([https://github.com/adbeyer23/](https://github.com/adbeyer23/)).
+Interested in the code or presentation for this project? Take a look at my [GitHub](https://github.com/adbeyer23/).
