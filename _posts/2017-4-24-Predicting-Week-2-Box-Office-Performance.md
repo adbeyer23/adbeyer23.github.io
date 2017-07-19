@@ -46,4 +46,5 @@ Positive coefficients mean the model predicted that they would decrease the amou
 - Explore the outliers to determine if they are errors. If I did not look at my outliers more, I would have missed the fact that Box Office Mojo started their week on Friday vs. Sunday. 
 - Don’t worry about finding the best or even a unique project idea. With limited time, it’s much better to have a mediocre idea and a complete project, compared to a great idea, but an incomplete project.
 
-Interested in the code or presentation for this project? Take a look at my [GitHub]([https://github.com/adbeyer23/](https://github.com/adbeyer23/)).
+Interested in the code or presentation for this project? Take a look at my [GitHub](https://github.com/adbeyer23/).
+
